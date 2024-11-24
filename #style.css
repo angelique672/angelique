@@ -1,0 +1,33 @@
+.novbar{
+    display: flex;
+    background-color: blue;
+    flex-direction: row;
+    gap: 60;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.novitems{ 
+ display: flex; 
+ flex-direction: row;
+ gap: 50;
+ justify-content:center;
+ align-items: center;
+ 
+}
+.heading{
+ display: flex; 
+ flex-direction: row;
+ gap: 50;
+}
+.img{
+display: flex;
+flex-direction: row;
+gap: 50%;
+}
+.
+
+
+
+
+
